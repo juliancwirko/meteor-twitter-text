@@ -4,7 +4,7 @@
 
 Usage [Server]:
 ````
-console.log(Meteor.twitterText.autoLink('@juliancwirko #MeteorJS lorem ipsum'));
+Meteor.twitterText.autoLink('@juliancwirko #MeteorJS lorem ipsum')
 ````
 Effect:
 ````
